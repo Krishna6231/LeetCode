@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/Krishna6231/LeetCode/tree/master/0890-lemonade-change) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Krishna6231/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
