@@ -22,6 +22,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Krishna6231/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Krishna6231/LeetCode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Krishna6231/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Krishna6231/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
