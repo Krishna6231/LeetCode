@@ -24,6 +24,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Krishna6231/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Krishna6231/LeetCode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +42,5 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Krishna6231/LeetCode/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
