@@ -29,6 +29,7 @@
 | [0202-happy-number](https://github.com/Krishna6231/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Krishna6231/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Krishna6231/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -47,8 +48,13 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Krishna6231/LeetCode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Krishna6231/LeetCode/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna6231/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Krishna6231/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
