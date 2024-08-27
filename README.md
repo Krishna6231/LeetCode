@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/Krishna6231/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Krishna6231/LeetCode/tree/master/0283-move-zeroes) |
 | [0890-lemonade-change](https://github.com/Krishna6231/LeetCode/tree/master/0890-lemonade-change) |
+| [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0125-valid-palindrome](https://github.com/Krishna6231/LeetCode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Krishna6231/LeetCode/tree/master/0392-is-subsequence) |
+| [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Krishna6231/LeetCode/tree/master/0392-is-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 <!---LeetCode Topics End-->
