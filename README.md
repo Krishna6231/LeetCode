@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishna6231/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0136-single-number](https://github.com/Krishna6231/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna6231/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Krishna6231/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Krishna6231/LeetCode/tree/master/0283-move-zeroes) |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna6231/LeetCode/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Krishna6231/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
