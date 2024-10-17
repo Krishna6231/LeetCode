@@ -1,5 +1,7 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+
+        if(s.length() != t.length()) return false;
         HashMap<Character, Integer> h1= new HashMap<>();
         for (char c: s.toCharArray()){
             h1.put(c,h1.getOrDefault(c,0)+1);
