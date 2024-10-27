@@ -18,6 +18,7 @@
 | [0202-happy-number](https://github.com/Krishna6231/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Krishna6231/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krishna6231/LeetCode/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/Krishna6231/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0242-valid-anagram](https://github.com/Krishna6231/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Krishna6231/LeetCode/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/Krishna6231/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krishna6231/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Binary Search
