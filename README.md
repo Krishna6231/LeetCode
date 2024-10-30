@@ -66,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/Krishna6231/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Krishna6231/LeetCode/tree/master/0392-is-subsequence) |
+| [0459-repeated-substring-pattern](https://github.com/Krishna6231/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/Krishna6231/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krishna6231/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -101,4 +102,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Krishna6231/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
