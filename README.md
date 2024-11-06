@@ -71,6 +71,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Krishna6231/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/Krishna6231/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krishna6231/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3451-string-compression-iii](https://github.com/Krishna6231/LeetCode/tree/master/3451-string-compression-iii) |
 | [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Binary Search
 |  |
