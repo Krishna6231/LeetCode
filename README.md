@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Krishna6231/LeetCode/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Krishna6231/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Krishna6231/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishna6231/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Krishna6231/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna6231/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Krishna6231/LeetCode/tree/master/0792-binary-search) |
 ## Dynamic Programming
