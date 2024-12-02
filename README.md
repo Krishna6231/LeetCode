@@ -15,6 +15,7 @@
 | [0890-lemonade-change](https://github.com/Krishna6231/LeetCode/tree/master/0890-lemonade-change) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna6231/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2048-build-array-from-permutation](https://github.com/Krishna6231/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Krishna6231/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@
 | [0782-jewels-and-stones](https://github.com/Krishna6231/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Krishna6231/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krishna6231/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Krishna6231/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3451-string-compression-iii](https://github.com/Krishna6231/LeetCode/tree/master/3451-string-compression-iii) |
 | [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Binary Search
@@ -118,4 +120,5 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Krishna6231/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Krishna6231/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Krishna6231/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
