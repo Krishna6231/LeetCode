@@ -14,6 +14,7 @@
 | [0792-binary-search](https://github.com/Krishna6231/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Krishna6231/LeetCode/tree/master/0890-lemonade-change) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna6231/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishna6231/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2048-build-array-from-permutation](https://github.com/Krishna6231/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna6231/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Krishna6231/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -126,4 +127,12 @@
 | [0459-repeated-substring-pattern](https://github.com/Krishna6231/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Krishna6231/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Krishna6231/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishna6231/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishna6231/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
