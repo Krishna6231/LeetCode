@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/Krishna6231/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Krishna6231/LeetCode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Krishna6231/LeetCode/tree/master/0890-lemonade-change) |
+| [1319-unique-number-of-occurrences](https://github.com/Krishna6231/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna6231/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Krishna6231/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2048-build-array-from-permutation](https://github.com/Krishna6231/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -27,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/Krishna6231/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krishna6231/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Krishna6231/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1319-unique-number-of-occurrences](https://github.com/Krishna6231/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna6231/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
