@@ -19,6 +19,7 @@
 | [2048-build-array-from-permutation](https://github.com/Krishna6231/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna6231/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Krishna6231/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Krishna6231/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krishna6231/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna6231/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Krishna6231/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Krishna6231/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3451-string-compression-iii](https://github.com/Krishna6231/LeetCode/tree/master/3451-string-compression-iii) |
 | [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Binary Search
@@ -146,4 +148,5 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Krishna6231/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Krishna6231/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
