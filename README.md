@@ -43,6 +43,7 @@
 | [0002-add-two-numbers](https://github.com/Krishna6231/LeetCode/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Krishna6231/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Krishna6231/LeetCode/tree/master/0202-happy-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Krishna6231/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0002-add-two-numbers](https://github.com/Krishna6231/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Krishna6231/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Krishna6231/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Krishna6231/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
