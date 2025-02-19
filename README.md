@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Krishna6231/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Krishna6231/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna6231/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Krishna6231/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Krishna6231/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna6231/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -49,6 +50,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krishna6231/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Krishna6231/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Krishna6231/LeetCode/tree/master/0125-valid-palindrome) |
