@@ -20,6 +20,7 @@
 | [2048-build-array-from-permutation](https://github.com/Krishna6231/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna6231/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Krishna6231/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2551-apply-operations-to-an-array](https://github.com/Krishna6231/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Krishna6231/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Hash Table
@@ -64,6 +65,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna6231/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Krishna6231/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna6231/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Krishna6231/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krishna6231/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2048-build-array-from-permutation](https://github.com/Krishna6231/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/Krishna6231/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/Krishna6231/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3533-snake-in-matrix](https://github.com/Krishna6231/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Divide and Conquer
 |  |
