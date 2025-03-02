@@ -29,6 +29,7 @@
 | [0202-happy-number](https://github.com/Krishna6231/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Krishna6231/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krishna6231/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Krishna6231/LeetCode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Krishna6231/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1319-unique-number-of-occurrences](https://github.com/Krishna6231/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Krishna6231/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -91,6 +92,7 @@
 | [0125-valid-palindrome](https://github.com/Krishna6231/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Krishna6231/LeetCode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Krishna6231/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Krishna6231/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Krishna6231/LeetCode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Krishna6231/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/Krishna6231/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -156,4 +158,8 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Krishna6231/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Krishna6231/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Krishna6231/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
